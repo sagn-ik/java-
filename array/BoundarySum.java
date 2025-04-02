@@ -1,3 +1,4 @@
+// sum of boundary elements
 import java.util.*;
 public class BoundarySum
 {
